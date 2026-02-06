@@ -2,6 +2,8 @@
 
 A Netflix-inspired developer portfolio built to showcase experience, projects, skills, and interactive engineering modules in a cinematic, professional layout.
 
+**Live Demo**: `https://netflix-style-portfolio-alpha.vercel.app/`
+
 ## About
 This portfolio presents a structured, hiring-focused story of work and capability. It combines a cinematic home experience with dedicated detail pages and interactive modules that highlight engineering decision-making, state management, and UX discipline.
 
